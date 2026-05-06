@@ -1,4 +1,3 @@
-.syntax unified
 .cpu arm7tdmi
 
 .section .text
@@ -7,4 +6,3 @@ _start:
     .thumb
 
     # instructions
-
